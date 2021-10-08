@@ -1,0 +1,62 @@
+.body {
+    scroll-behavior: smooth;
+}
+
+.header {
+    background-color: black;
+}
+
+.startUp {
+    color: white;
+}
+
+.firstProject {
+    margin-left: 60px;
+}
+
+.secondProject {
+    margin-left: 60px;
+}
+
+.navPills{
+    background-color: black;
+}
+.navPillz{
+    margin-left: -20px;
+}
+
+.Projects {
+    margin-left: -16px;
+}
+
+.eyecon2 :hover, .eyecon3 :hover, .eyecon :hover{
+    font-size: large;
+}
+
+.eyecon2 a, .eyecon3 a, .eyecon a{
+    color: white;
+}
+
+.page-footer {
+    background-color: black;
+}
+
+.icon {
+    display: inline-block;
+    margin-top: 14px;
+    padding: 7px;
+    width: 2em;
+    height: 2em;
+    stroke-width: 0;
+    stroke: currentColor;
+    fill: currentColor;
+  }
+  
+  /* ==========================================
+  Single-colored icons can be modified like so:
+  .icon-name {
+    font-size: 32px;
+    color: red;
+  }
+  ========================================== */
+  
